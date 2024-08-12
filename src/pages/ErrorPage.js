@@ -11,7 +11,7 @@ function ErrorPage() {
         <NavBar />
       </header>
       <main>
-        <h1>Whoops! Something went wrong!</h1>
+        <h1>Error 404! Something went wrong!</h1>
       </main>
     </>
   );

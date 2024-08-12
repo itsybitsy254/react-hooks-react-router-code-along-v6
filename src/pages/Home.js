@@ -22,7 +22,7 @@ function Home() {
         <NavBar />
       </header>
       <main>
-        <h1>Home!</h1>
+        <h1>Welcome Home!</h1>
         {userList}
       </main>
     </>
